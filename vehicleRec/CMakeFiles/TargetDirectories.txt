@@ -1,0 +1,3 @@
+/home/pi/vehicleRec/CMakeFiles/edit_cache.dir
+/home/pi/vehicleRec/CMakeFiles/rebuild_cache.dir
+/home/pi/vehicleRec/CMakeFiles/DisplayVideo.dir
